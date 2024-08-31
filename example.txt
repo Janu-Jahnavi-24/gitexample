@@ -1,0 +1,8 @@
+add 
+commit 
+push
+
+working dir --
+staging area--add
+local rep --file manager //git---commit
+remote rep--GitHub //gitexample---push
